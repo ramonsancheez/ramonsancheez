@@ -5,6 +5,8 @@
 - 🖥️ Also have basic knowledge of C++.
 - 🛠️ Used IDE'S and text editors such as **IntellIJ**, **NetBeans**, **PyCharm**, **Atom** and **VSCode**.
 - 📫 How to reach me: rsanchezabadia@hotmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonsancheez&show_icons=true&theme=radical)
 <!--
 **ramonsancheez/ramonsancheez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
