@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=ramonsancheez&color=blueviolet)
 - 🌱 Currently studying DAW dual degree at Francesc de Borja Moll CIFP.
 - 📚 Learning various programming lenguages such as **Java**, **Python** or **JavaScript**.
 - 🖥️ Also have basic knowledge of C++.
